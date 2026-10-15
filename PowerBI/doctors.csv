@@ -1,0 +1,81 @@
+doctor_id,doctor_name,gender,department_id,specialization,qualification,experience_years,consultation_fee,join_date,status
+DR001,Dr. James Nguyen,Male,D08,Pulmonology,"MBBS, MD",10,105.0,2017-08-25,Active
+DR002,Dr. Maria Lopez,Female,D07,Gastroenterology,"MBBS, DM",8,107.67,2022-08-27,Active
+DR003,Dr. Raj Lee,Male,D05,Pediatrics,"MBBS, MD, DNB",13,85.17,2015-04-04,Active
+DR004,Dr. Raj Adams,Male,D05,Pediatrics,"MBBS, MD",2,72.33,2022-06-17,Active
+DR005,Dr. Rahul Patel,Male,D03,Cardiology,"MBBS, DM",4,128.0,2023-05-22,Active
+DR006,Dr. Oliver Costa,Male,D12,Dermatology,"MBBS, MD",29,103.83,2010-02-04,On Leave
+DR007,Dr. Priya Silva,Female,D01,General Medicine,"MBBS, DM",5,65.0,2019-03-15,Active
+DR008,Dr. Lucas Green,Male,D05,Pediatrics,"MBBS, MD",6,77.0,2018-07-05,Active
+DR009,Dr. Joseph Nelson,Male,D04,Orthopedics,"MBBS, MCh",27,130.5,2023-03-05,Active
+DR010,Dr. Oliver Davis,Male,D09,Neurology,"MBBS, MD",34,180.17,2018-10-27,Active
+DR011,Dr. Elizabeth Nguyen,Female,D04,Orthopedics,"MBBS, MCh",6,99.0,2022-04-17,Active
+DR012,Dr. Robert Singh,Male,D07,Gastroenterology,"MBBS, MD, DNB",11,112.42,2018-09-26,Active
+DR013,Dr. Noah Adams,Male,D06,Gynecology & Obstetrics,"MBBS, MS",16,126.67,2021-06-16,Active
+DR014,Dr. Victor Miller,Male,D12,Dermatology,"MBBS, MD, DNB",26,100.33,2006-08-11,Active
+DR015,Dr. Elena Brown,Female,D01,General Medicine,"MBBS, MD, DNB",7,67.0,2018-04-05,Active
+DR016,Dr. Nina Allen,Female,D02,Emergency,"MBBS, MCh",12,96.0,2013-12-30,Active
+DR017,Dr. Elena Patel,Female,D04,Orthopedics,"MBBS, MD",19,118.5,2019-12-23,Active
+DR018,Dr. Diego Jones,Male,D01,General Medicine,"MBBS, MS",17,77.0,2023-07-05,Active
+DR019,Dr. Isabella Lee,Female,D08,Pulmonology,"MBBS, MD",11,106.5,2013-09-02,Active
+DR020,Dr. Ananya Smith,Female,D01,General Medicine,"MBBS, DM",13,73.0,2019-12-24,Active
+DR021,Dr. Chloe Wilson,Female,D08,Pulmonology,"MBBS, MD",4,96.0,2021-01-29,Active
+DR022,Dr. Samuel Moore,Male,D07,Gastroenterology,"MBBS, MS",12,114.0,2012-10-10,Active
+DR023,Dr. Carlos Scott,Male,D01,General Medicine,"MBBS, MS",12,72.0,2023-04-27,Active
+DR024,Dr. Michael Reed,Male,D10,Oncology,"MBBS, MS",16,190.0,2023-09-01,Active
+DR025,Dr. Nina Taylor,Female,D01,General Medicine,"MBBS, MS",10,70.0,2023-09-14,Active
+DR026,Dr. Joseph Smith,Male,D11,ENT,"MBBS, MD, DNB",17,96.25,2021-02-01,Active
+DR027,Dr. Oliver Baker,Male,D08,Pulmonology,"MBBS, MD, DNB",21,121.5,2022-09-20,Active
+DR028,Dr. Joseph Johnson,Male,D03,Cardiology,"MBBS, MS",15,150.0,2011-05-26,Active
+DR029,Dr. William Williams,Male,D02,Emergency,"MBBS, MS",16,101.33,2014-01-07,Active
+DR030,Dr. Raj Scott,Male,D12,Dermatology,"MBBS, MCh",14,86.33,2009-12-18,Active
+DR031,Dr. Elizabeth Reed,Female,D03,Cardiology,"MBBS, MD",14,148.0,2012-06-23,Active
+DR032,Dr. Susan Anderson,Female,D09,Neurology,"MBBS, MD",9,132.25,2015-01-06,Active
+DR033,Dr. Mei Clark,Female,D07,Gastroenterology,"MBBS, MD",16,120.33,2019-12-03,Active
+DR034,Dr. Diego Johnson,Male,D02,Emergency,"MBBS, DM",13,97.33,2019-12-29,Active
+DR035,Dr. Susan Singh,Female,D10,Oncology,"MBBS, MS",29,222.5,2006-09-16,Active
+DR036,Dr. Ananya Nelson,Female,D09,Neurology,"MBBS, MD, DNB",25,162.92,2018-11-04,Active
+DR037,Dr. Chloe Lopez,Female,D09,Neurology,"MBBS, DM",17,147.58,2022-10-12,Active
+DR038,Dr. Victor Kim,Male,D03,Cardiology,"MBBS, MD",9,138.0,2017-09-06,Active
+DR039,Dr. Lucas Martin,Male,D04,Orthopedics,"MBBS, MD, DNB",6,99.0,2018-11-20,Active
+DR040,Dr. David Baker,Male,D01,General Medicine,"MBBS, MD, DNB",22,82.0,2004-04-29,Active
+DR041,Dr. James Miller,Male,D10,Oncology,"MBBS, MD",16,190.0,2008-11-04,Active
+DR042,Dr. Matthew Singh,Male,D08,Pulmonology,"MBBS, MD",17,115.5,2021-09-14,Active
+DR043,Dr. William Smith,Male,D10,Oncology,"MBBS, MD",2,155.0,2022-02-24,Active
+DR044,Dr. Andrew Adams,Male,D11,ENT,"MBBS, MD",20,100.0,2006-10-10,Active
+DR045,Dr. Linda Singh,Female,D05,Pediatrics,"MBBS, MD",17,89.83,2011-11-03,Active
+DR046,Dr. Lucas Baker,Male,D01,General Medicine,"MBBS, MCh",6,66.0,2018-10-10,Active
+DR047,Dr. Hannah Walker,Female,D07,Gastroenterology,"MBBS, MS",11,112.42,2014-06-23,Active
+DR048,Dr. Mei Moore,Female,D10,Oncology,"MBBS, MD",16,190.0,2016-07-30,Active
+DR049,Dr. Daniel Wright,Male,D06,Gynecology & Obstetrics,"MBBS, DM",14,123.33,2023-03-11,Active
+DR050,Dr. Zara Johnson,Female,D12,Dermatology,"MBBS, MS",12,84.0,2018-04-01,Active
+DR051,Dr. Thomas Brown,Male,D08,Pulmonology,"MBBS, MCh",13,109.5,2021-02-12,Active
+DR052,Dr. Nina Allen,Female,D12,Dermatology,"MBBS, MD, DNB",12,84.0,2022-05-20,Active
+DR053,Dr. William Martin,Male,D06,Gynecology & Obstetrics,"MBBS, MS",15,125.0,2021-11-15,Active
+DR054,Dr. Linda Ahmed,Female,D03,Cardiology,"MBBS, MD",24,168.0,2009-10-05,Active
+DR055,Dr. Henry Brown,Male,D09,Neurology,"MBBS, MCh",2,118.83,2022-09-15,Active
+DR056,Dr. Carlos Adams,Male,D04,Orthopedics,"MBBS, DM",12,108.0,2017-03-28,Active
+DR057,Dr. Rahul Garcia,Male,D09,Neurology,"MBBS, MCh",15,143.75,2012-07-10,Active
+DR058,Dr. Sophia Chen,Female,D11,ENT,"MBBS, MD",16,95.0,2014-12-11,Active
+DR059,Dr. Samuel Lopez,Male,D01,General Medicine,"MBBS, MD, DNB",11,71.0,2016-10-11,Active
+DR060,Dr. Oliver Chen,Male,D09,Neurology,"MBBS, DM",2,118.83,2023-07-30,Active
+DR061,Dr. Arjun Adams,Male,D04,Orthopedics,"MBBS, MD",16,114.0,2010-01-28,Active
+DR062,Dr. Henry Kim,Male,D11,ENT,"MBBS, MS",26,107.5,2014-10-01,Active
+DR063,Dr. James Rossi,Male,D01,General Medicine,"MBBS, DM",3,63.0,2023-04-12,Active
+DR064,Dr. Mohammed Garcia,Male,D08,Pulmonology,"MBBS, MD",20,120.0,2007-06-08,Active
+DR065,Dr. Samuel Allen,Male,D06,Gynecology & Obstetrics,"MBBS, MS",12,120.0,2014-11-20,Active
+DR066,Dr. Linda Clark,Female,D02,Emergency,"MBBS, MD, DNB",14,98.67,2023-01-04,Active
+DR067,Dr. Elizabeth Reed,Female,D08,Pulmonology,"MBBS, MD",7,100.5,2022-05-22,Active
+DR068,Dr. Liam Smith,Male,D07,Gastroenterology,"MBBS, MS",12,114.0,2023-07-26,Active
+DR069,Dr. Oliver Miller,Male,D07,Gastroenterology,"MBBS, MS",23,131.42,2018-04-28,Active
+DR070,Dr. Wei Davis,Male,D06,Gynecology & Obstetrics,"MBBS, MD",18,130.0,2021-12-13,Active
+DR071,Dr. Amelia Reed,Female,D04,Orthopedics,"MBBS, MCh",26,129.0,2009-07-05,Active
+DR072,Dr. Raj Martin,Male,D06,Gynecology & Obstetrics,"MBBS, MD, DNB",22,136.67,2013-04-08,Active
+DR073,Dr. Sophia Costa,Female,D12,Dermatology,"MBBS, MD",17,89.83,2007-01-09,Active
+DR074,Dr. Chloe Allen,Female,D04,Orthopedics,"MBBS, MCh",26,129.0,2008-09-18,Active
+DR075,Dr. Mary Hughes,Female,D05,Pediatrics,"MBBS, MD, DNB",17,89.83,2013-04-26,Active
+DR076,Dr. William Singh,Male,D03,Cardiology,"MBBS, MD",20,160.0,2013-07-14,On Leave
+DR077,Dr. Zara Khan,Female,D08,Pulmonology,"MBBS, MD, DNB",12,108.0,2023-02-05,On Leave
+DR078,Dr. Brian Lee,Male,D02,Emergency,"MBBS, MD",14,98.67,2022-10-08,Active
+DR079,Dr. Matthew Wilson,Male,D12,Dermatology,"MBBS, MCh",9,80.5,2018-02-28,Active
+DR080,Dr. Lucas Walker,Male,D11,ENT,"MBBS, DM",21,101.25,2023-09-01,Active
