@@ -26,7 +26,7 @@ The objective is to transform healthcare operational data into actionable busine
 - **Python:** Data cleaning, data type conversion, duplicate checks, and exploratory analysis.
 - **Pandas:** Data manipulation and quality checks.
 - **Excel / CSV:** Data inspection and data exchange.
-- **GitHub:** Project versioning and portfolio documentation.
+  
 
 ## Dataset Overview
 
