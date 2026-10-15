@@ -116,7 +116,6 @@ Hospital-Management-Analytics/
 ├── README.md
 ├── Hospital_Management_Analytics.pbix
 ├── DAX_Measures.md
-├── Data_Dictionary.md
 ├── Screenshots/
 │   ├── 01_Executive_Overview.png
 │   ├── 02_Appointment_Operations.png
@@ -125,7 +124,15 @@ Hospital-Management-Analytics/
 └── Documentation/
     ├── Project_Workflow.md
     └── Data_Quality_Notes.md
-```
+
+
+## Project Documentation
+
+- [DAX Measures](DAX_Measures_Hospital_Analytics.md)
+- [DAX Calculated Columns](DAX_Calculated_Columns_Hospital_Analytics.md)
+- [Project Workflow](Documentation/Project_Workflow.md)
+- [Data Quality Notes](Documentation/Data_Quality_Notes.md)
+- [Data Model](Documentation/Data_Model.md)
 
 ## How to Explore the Project
 
