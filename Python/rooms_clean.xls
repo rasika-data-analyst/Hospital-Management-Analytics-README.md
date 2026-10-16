@@ -1,0 +1,117 @@
+room_id,room_type,floor,daily_rate,capacity
+R001,General Ward,3,93.73,6
+R003,General Ward,4,83.92,6
+R005,General Ward,1,93.8,6
+R007,General Ward,4,90.91,6
+R009,General Ward,1,95.81,6
+R011,General Ward,4,86.48,6
+R013,General Ward,3,86.28,6
+R015,General Ward,4,90.46,6
+R016,General Ward,2,88.34,6
+R017,General Ward,1,93.27,6
+R019,General Ward,1,86.72,6
+R021,General Ward,1,94.01,6
+R023,General Ward,2,84.53,6
+R025,General Ward,1,92.31,6
+R026,General Ward,2,91.46,6
+R028,General Ward,2,95.37,6
+R030,General Ward,3,91.95,6
+R032,General Ward,3,90.95,6
+R034,General Ward,1,83.47,6
+R036,General Ward,2,86.36,6
+R038,General Ward,2,93.58,6
+R040,General Ward,4,93.72,6
+R042,General Ward,2,96.43,6
+R044,General Ward,5,93.92,6
+R046,General Ward,3,97.01,6
+R049,General Ward,2,93.62,6
+R051,General Ward,1,91.57,6
+R053,General Ward,4,89.47,6
+R054,General Ward,3,86.38,6
+R055,General Ward,2,87.28,6
+R057,General Ward,3,91.89,6
+R059,General Ward,1,95.32,6
+R061,Semi-Private,1,166.18,2
+R063,Semi-Private,4,192.38,2
+R065,Semi-Private,5,168.95,2
+R067,Semi-Private,3,180.06,2
+R069,Semi-Private,5,173.75,2
+R071,Semi-Private,2,190.86,2
+R073,Semi-Private,1,171.56,2
+R074,Semi-Private,2,169.26,2
+R076,Semi-Private,5,190.72,2
+R079,Semi-Private,4,168.67,2
+R081,Semi-Private,5,168.92,2
+R083,Semi-Private,2,170.25,2
+R084,Semi-Private,4,179.41,2
+R085,Semi-Private,5,184.94,2
+R087,Semi-Private,3,167.92,2
+R089,Semi-Private,1,171.06,2
+R091,Semi-Private,3,179.48,2
+R094,Semi-Private,4,166.96,2
+R096,Semi-Private,3,188.55,2
+R097,Semi-Private,4,178.93,2
+R100,Semi-Private,4,167.63,2
+R103,Private,4,311.95,1
+R104,Private,1,300.86,1
+R106,Private,2,326.94,1
+R108,Private,1,335.96,1
+R110,Private,4,312.85,1
+R111,Private,3,325.63,1
+R113,Private,4,297.41,1
+R115,Private,1,322.45,1
+R116,Private,5,337.8,1
+R117,Private,3,333.47,1
+R119,Private,1,319.87,1
+R121,Private,2,309.2,1
+R122,Private,2,312.83,1
+R127,Private,2,333.44,1
+R128,Private,1,307.78,1
+R130,Private,4,315.73,1
+R131,ICU,3,835.08,1
+R135,ICU,5,829.4,1
+R136,ICU,2,891.78,1
+R138,ICU,3,783.72,1
+R139,ICU,3,866.74,1
+R141,ICU,3,796.65,1
+R143,ICU,4,886.75,1
+R144,ICU,3,788.81,1
+R145,ICU,5,810.18,1
+R146,ICU,5,809.57,1
+R148,ICU,2,816.02,1
+RX02925,P02687,5,91.58,6
+RX02926,P02581,2,90.03,6
+RX02927,P02698,4,92.48,6
+RX02928,P02698,4,94.22,6
+RX02929,P01309,5,84.87,6
+RX02930,General Ward,4,97.04,6
+RX02931,General Ward,1,94.71,6
+RX02934,P00585,2,82.96,6
+RX02935,P01454,1,92.73,6
+RX02936,P03073,1,83.33,6
+RX02948,General Ward,1,94.93,6
+RX02949,General Ward,5,95.11,6
+RX02950,General Ward,2,82.99,6
+RX02956,P02927,5,187.88,2
+RX02957,Semi-Private,5,193.17,2
+RX02959,Semi-Private,1,182.14,2
+RX02960,Semi-Private,5,189.98,2
+RX02961,Semi-Private,2,189.1,2
+RX02963,Semi-Private,2,190.27,2
+RX02964,Semi-Private,1,188.06,2
+RX02965,P02247,4,180.42,2
+RX02966,Semi-Private,4,177.77,2
+RX02970,P00550,2,191.29,2
+RX02974,P01095,3,188.38,2
+RX02980,Private,5,343.18,1
+RX02981,Private,2,307.52,1
+RX02984,P02455,1,315.09,1
+RX02987,P02768,3,317.65,1
+RX02988,Private,1,334.98,1
+RX02991,P01855,4,340.67,1
+RX02992,Private,2,333.32,1
+RX02993,P00436,5,342.7,1
+RX02995,Private,5,321.07,1
+RX02998,P00388,4,834.7,1
+RX03001,ICU,4,851.06,1
+RX03004,P02144,5,823.4,1
